@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "generate.js",
   "scripts": {
-    "start": "json-server db.json"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
